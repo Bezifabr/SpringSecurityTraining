@@ -1,10 +1,10 @@
-package dev.saranda.springsecurity.userdetailsservice;
+package dev.saranda.springsecurity.securitybasics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserdetailsserviceApplicationTests {
+class SecurityBasicsApplicationTests {
 
     @Test
     void contextLoads() {

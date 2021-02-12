@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.saranda.springsecurity</groupId>
-    <artifactId>userdetailsservice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>userdetailsservice</name>
+    <artifactId>security-basics</artifactId>
+    <version>0.0.2-SNAPSHOT</version>
+    <name>security-basics</name>
     <description>Overriding the default implementation</description>
     <properties>
         <java.version>11</java.version>

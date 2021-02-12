@@ -1,4 +1,4 @@
-package dev.saranda.springsecurity.userdetailsservice.config;
+package dev.saranda.springsecurity.securitybasics.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

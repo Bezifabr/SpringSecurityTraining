@@ -1,13 +1,13 @@
-package dev.saranda.springsecurity.userdetailsservice;
+package dev.saranda.springsecurity.securitybasics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserdetailsserviceApplication {
+public class SecurityBasicsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UserdetailsserviceApplication.class, args);
+        SpringApplication.run(SecurityBasicsApplication.class, args);
     }
 
 }
